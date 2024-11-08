@@ -1,0 +1,5 @@
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/obj/Debug/net8.0/RPN.GeneratedMSBuildEditorConfig.editorconfig
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/obj/Debug/net8.0/RPN.AssemblyInfoInputs.cache
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/obj/Debug/net8.0/RPN.AssemblyInfo.cs
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/obj/Debug/net8.0/RPN.csproj.CoreCompileInputs.cache
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/obj/Debug/net8.0/RPN.sourcelink.json

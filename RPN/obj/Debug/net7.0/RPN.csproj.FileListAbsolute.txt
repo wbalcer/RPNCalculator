@@ -1,0 +1,13 @@
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/bin/Debug/net7.0/RPN.deps.json
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/bin/Debug/net7.0/RPN.dll
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/bin/Debug/net7.0/RPN.pdb
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.csproj.AssemblyReference.cache
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.GeneratedMSBuildEditorConfig.editorconfig
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.AssemblyInfoInputs.cache
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.AssemblyInfo.cs
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.csproj.CoreCompileInputs.cache
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.sourcelink.json
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.dll
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/refint/RPN.dll
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/RPN.pdb
+/home/wbalcer/Documents/net/01-rpn-wbalcer/RPN/RPN/obj/Debug/net7.0/ref/RPN.dll
